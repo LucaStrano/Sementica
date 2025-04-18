@@ -1,0 +1,6 @@
+Sementica is an Electron app that aids users in the comprehension of Academic Papers, leveraging advanced PDF parsing and GenAI techniques. 
+
+The project is built using Python as the backend and React as a frontend:
+
+- The python backend (contained inside the backend/ folder) spins up a Fast API server which exposes different endpoints to handle PDF processing;
+- The React frontend (contained inside the frontend/ folder) is built using Typescript, Vite, Tailwind, Shadcn.
